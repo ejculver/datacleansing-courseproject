@@ -34,7 +34,7 @@ Activity,
 The descriptive activity of the subject,
 "WALKING" "WALKING_UPSTAIRS" "WALKING_DOWNSTAIRS" "SITTING" "STANDING""LAYING"
 
-3-178,
+3-68,
 "tBodyAcc.mean.X"       "tBodyAcc.mean.Y"      
  "tBodyAcc.mean.Z"       "tBodyAcc.std.X"        "tBodyAcc.std.Y"        "tBodyAcc.std.Z"       
  "tGravityAcc.mean.X"    "tGravityAcc.mean.Y"    "tGravityAcc.mean.Z"    "tGravityAcc.std.X"    
